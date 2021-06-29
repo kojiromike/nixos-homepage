@@ -16,20 +16,17 @@
   <h1>Where to talk?</h1>
   <div>
     <div>
+      <h2>Chat</h2>
+      <p>Real-time help, development chat, and off-topic community discussion
+        takes place on Matrix.</p>
+      <a href="https://matrix.to/#/#community:nixos.org">NixOS Matrix Space</a>
+    </div>
+    <div>
       <h2>Forum</h2>
       <p>The official forum is the right place to get help from other users and
         discuss the development of the projects. There are also Announcements,
         Job offers and Events.</p>
       <a href="https://discourse.nixos.org/">Discourse Forum</a>
-    </div>
-    <div>
-      <h2>Chat</h2>
-      <p>Another place to get in contact with other users is the official IRC
-        channel:</p>
-      <p><a href="irc://irc.freenode.net/#nixos">#nixos</a> on the <a href="https://freenode.net/">freenode network</a>
-        (<a href="https://logs.nix.samueldr.com/nixos/">logs</a> are
-        available)</p>
-      <a href="https://webchat.freenode.net/#nixos">Open Webchat</a>
     </div>
     <div>
       <h2>Other Platforms</h2>
@@ -296,6 +293,7 @@
       <p>The NixOS Foundation is a registered non-profit organisation at the Chamber of
         commerce (Kamer van Koophandel) in Utrecht, The Netherlands. The KvK number is 63520583.
       </p>
+      <p>You can contact the foundation by writing an email to <a href="mailto:foundation@nixos.org">foundation@nixos.org</a>.</p>
     </div>
   </div>
 </section>
